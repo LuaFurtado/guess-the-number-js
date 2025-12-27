@@ -9,6 +9,11 @@ The HTML and CSS were provided by the course, and the main goal was to understan
 The game challenges the player to guess a secret number, receiving feedback until the correct number is found.
 
 ---
+## 🌍 Language note
+
+The JavaScript code is written in **Portuguese**, following the original course structure and variable naming used during the learning process.
+
+---
 
 ## 🧠 What this project is about
 
